@@ -1,0 +1,19 @@
+*pdf
+*.csv
+*.venv
+*.png
+# Python
+__pycache__/
+*.pyc
+
+# Virtual env
+.venv/
+
+# Large models (optional)
+best_lstm_model/
+*.h5
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+.aider*
